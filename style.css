@@ -1,0 +1,40 @@
+#main
+{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(7, 156, 189, 0.79),rgba(107, 11, 181, 0.697)), url("students.jpg");
+    background-size: cover;
+    position: absolute;
+}
+
+#inputs
+{
+    width: 24rem;
+    height: 28rem;
+    box-shadow:3px 3px 11px rgb(112, 4, 111);
+    position: relative;
+    margin: 6% auto;
+    border-radius: 1rem;
+    font-weight: bolder;
+    background-color: rgb(13, 206, 203);
+    padding: 8px;
+    color: rgb(59, 69, 75);
+    text-align: center;
+}
+
+input
+{
+    font-weight: bold;
+    background-color: rgba(0,0,0,0);
+    color: rgb(58, 60, 62);
+    margin: 10px;
+    border: none;
+    padding: 10px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 9px;
+}
+
+p
+{
+    margin: 15px;
+}
